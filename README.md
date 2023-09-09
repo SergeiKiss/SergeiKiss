@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeikiss&label=Profile%20views&color=0e75b6&style=flat" alt="sergeikiss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergeikiss" alt="sergeikiss" /></a> </p>
-
 - 🔭 I’m currently working on [Task manager](https://github.com/SergeiKiss/backend-project-6)
 
 - 🌱 I’m currently learning **SQL, Express, Fastify**
 
 - 📫 How to reach me **https://t.me/Sergei_Kiss**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
