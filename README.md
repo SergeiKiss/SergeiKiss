@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeikiss&label=Profile%20views&color=0e75b6&style=flat" alt="sergeikiss" /> </p>
 
-- 🔭 I’m currently working on [Task manager](https://github.com/SergeiKiss/backend-project-6)
+<!-- - 🔭 I’m currently working on [Task manager](https://github.com/SergeiKiss/backend-project-6) -->
 
-- 🌱 I’m currently learning **SQL, Express, Fastify**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **https://t.me/Sergei_Kiss**
 
