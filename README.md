@@ -1,8 +1,6 @@
 <h1 align="center">Hello, World! 👋, I'm Sergei</h1>
 <h3 align="center">A passionate developer from Saint Petersburg, Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergeikiss&label=Profile%20views&color=0e75b6&style=flat" alt="sergeikiss" /> </p>
-
 <!-- - 🔭 I’m currently working on [Task manager](https://github.com/SergeiKiss/backend-project-6) -->
 
 - 🌱 I’m currently learning **React**
@@ -32,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeikiss&show_icons=true&locale=en" alt="sergeikiss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergeikiss&" alt="sergeikiss" /></p>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sergeikiss&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
