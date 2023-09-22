@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergeikiss&show_icons=true&locale=en" alt="sergeikiss" /></p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sergeikiss&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sergeikiss&theme=light)](https://github.com/KnlnKS/leetcode-stats) -->
