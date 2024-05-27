@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World! 👋, I'm Sergei</h1>
-<h3 align="center">Adventurer, dreamer, passionate full stack developer from St. Petersburg, Russia</h3>
+<h3 align="center">Adventurer, dreamer, passionate developer from St. Petersburg, Russia</h3>
 
 <!-- - 🔭 I’m currently working on [Task manager](https://github.com/SergeiKiss/backend-project-6) -->
 
